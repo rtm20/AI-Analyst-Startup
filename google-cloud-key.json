@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "ai-startup-analyst-hackathon",
+  "private_key_id": "80a6c7565c2d76737ed8de0c7d5afd7c2a9e3854",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDLkUm/3l6d69Q5\nDIsBy16XGdN7VTuj641T6Cl3eDlvOD6Iz1EsOkU92P3qvsws0RfZTeMmT2V9KNpg\nXbnG1F1FMyoTjhvDuEDKO7aPDHdNnt2Te+nqPNWILlFDcLkBCBg13xqsJ72AnhTs\nPlkCegr3nxjmcOWpDIYea9r9gSqpY2Fo2CPbNHe/2NqiTfTC+m2cR821P8iudQ16\nquKJIQ0xlaH8v4V0d6w5D/0fffdATHT94T/ip+r0kffYJ95WmXbjwrM23AhishSN\nvzpls1brGqhS6nHGEXJ/Uz09iTTU+NXL/kkAaYcZ6KTJLAFT7dKXU7f9H05T4m8O\nFelm76U5AgMBAAECggEAHPmT2f3MkWVXGnysz4dTMiYwqiImYE1fmyUVO+ZOpIRI\nsF/z8Zvkrao0cCSSusFTR/C0Z4hPDYrSVHuavRCOqxIeh9SHIqtX+4EW2dMgKxn0\n93BgieD5Us4m7na9uoYcrhRQv1bTvBokJ8EzGa1l4LuSR4Cjy9VWxL881y76s8vK\nlfoCr2NRYKffJw1rgei9oYzLyVSZ55Z0tL0ITSVRvo60AxUG2Dtz6S0iDGxhJKsP\nD6RHOxJnP55/l4bZGlfAsQhVZCC2bS4JLCejxhZUThpdvaOO2Ik9mnkTou1WilJq\nHXhWJEosZfbzLmm6EMTstEhe6u503o7DHxgfzLa0lQKBgQD0o3goeAVdkS5nIifl\nHV9CIynvEWBbadyqK7ys8T5kfIhIhjRASDOvt+p7lLHg5EpOBJbUxYCzFrLi9lwa\nnwjqHhIRcKH1cRv5ksh+byo44ZCGk2asaX9Ph1VHCWYDhuorNSpcsx10urEjNx3A\n4HLKfWjfFupy/nl8uJ/EQDs/TQKBgQDVBYWBrZ/cQ3mSmmA2WNG4NY9Bz4gYWH0g\n4gApxiNcMPRHJL9frR5Ss3aG3xzPhP8iT0vV00PDsNfyg+LJPB0rZtLq952P52Kg\nGoWrPKFhXy3ifZuXo1vpRs4MmPOyFEh20fTKW5KmvdUfvPdUhO9YSRc5jAmR8UIR\nZaA4DO2fnQKBgQCI2mG/kdS+kRb6Ttsuio3de7pbqMbUnJX7BFiaDqKuqBO9LoZQ\nZ5OyexpLY9VWT59ZoauW/52NkecknFjN86WTApts8itIGKxjoz9Rq3JdO6IUBqVr\nUeEMZlLIWHOfCXw6C5XVIcYapM2vO4gDfAv7RsjB9BnXlo/zu3x01tHOCQKBgQDJ\n3b6jof5AxCx8EhEkz0yGLTNBoUIOGCUTuTeAXsR5g+apWJiGOU7n/itPKjVqLlV8\nlPp/egHYe0hZCEQsgOv/iiRMCDTm/tWGdTvAhudDl+eqn2+H5oWd7bwrUfJ2CiSV\nfOdlsBusKW7C8dbL4GHUHweEQEF9bMw4Ij8PfqjcPQKBgDLu5tCrHgV2TdURViqh\nOdeTdvaMMtDnyc4XmF3uSZeDOGIqZzIsAtuWOWnzZkksKoM9EOJL+9dJhj+UJbgV\nkZ1PkGeNGfEAMnQiGs1j/vJWnRgChuDK8qiE5CSzieiMq086te57nOj1bEku+UOd\nhZHUKeEiCulVmDYXwpnF8sfC\n-----END PRIVATE KEY-----\n",
+  "client_email": "ai-startup-analyst-service@ai-startup-analyst-hackathon.iam.gserviceaccount.com",
+  "client_id": "103629202662875101804",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/ai-startup-analyst-service%40ai-startup-analyst-hackathon.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
