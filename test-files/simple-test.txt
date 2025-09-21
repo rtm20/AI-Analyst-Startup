@@ -1,0 +1,37 @@
+TechNova AI Solutions - Series A Pitch Deck
+
+Company Overview:
+TechNova AI Solutions is revolutionizing enterprise workflow automation through advanced artificial intelligence.
+
+Founded: January 2023
+Location: San Francisco, CA
+Industry: Enterprise AI Software
+Current ARR: $3.2M
+Growth Rate: 450% YoY
+
+Financial Metrics:
+- Monthly Recurring Revenue: $267K
+- Annual Recurring Revenue: $3.2M
+- Gross Margin: 88%
+- Customer Acquisition Cost: $3,200
+- Lifetime Value: $42,000
+- LTV/CAC Ratio: 13.1x
+
+Team:
+Dr. Elena Rodriguez - CEO & Co-founder
+Former Principal Engineer at Google Brain
+PhD Machine Learning, Stanford University
+
+James Chen - CTO & Co-founder
+Ex-Senior Research Scientist at OpenAI
+MS Computer Science, MIT
+
+Market Opportunity:
+Total Addressable Market: $180B by 2028
+Serviceable Addressable Market: $45B
+Market Growth Rate: 35% CAGR
+
+Funding Request:
+Raising $15M Series A
+Use of funds: Product development, Sales & Marketing, Operations
+Target: 24-month runway to profitability
